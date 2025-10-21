@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]({http://www.linkedin.com/in/vinod-s-34a682109) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]({http://www.linkedin.com/in/vinodsingh44) 
 
 # 💻 Tech Stack:
 ## Machine Learning
